@@ -17,3 +17,10 @@
 
 ![ML iris](https://github.com/user-attachments/assets/3315fbb2-f101-4423-9604-62a219240364)
 
+# iris decision tree:
+
+
+
+![ml decision tree](https://github.com/user-attachments/assets/b639d49d-bbb4-4c51-96f1-2937679f53a3)
+
+
